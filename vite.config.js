@@ -14,4 +14,5 @@ export default defineConfig({
     }
   },
   plugins: [react()],
+  base: '/Entrega-React_Comision_51095.io/'
 })
